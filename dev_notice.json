@@ -9,5 +9,16 @@
       "post_api": "/v1/json/update",
       "hash": "489dfaa6f2aea875792b"
     }
+  ],
+   "shakil_dev": [
+    {
+      "User": "shakil_dev",
+      "app_name": "AliNaj Build",
+      "status": "online",
+      "password": "shakildev",
+      "domain": "missilev2ray.xyz",
+      "post_api": "/v1/json/update",
+      "hash": "489dfaa6f2aea875792b"
+    }
   ]
 }
