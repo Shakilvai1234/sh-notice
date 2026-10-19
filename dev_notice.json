@@ -19,6 +19,17 @@
       "domain": "missilev2ray.xyz",
       "post_api": "/v1/json/update",
       "hash": "316e97a879c9223ee998"
+       }
+  ],
+   "gsv2ray_dev": [
+    {
+      "User": "gsv2ray_dev",
+      "app_name": "Shakil Build",
+      "status": "online",
+      "password": "gsv2ray",
+      "domain": "gsv2ray.xyz",
+      "post_api": "/v1/json/update",
+      "hash": "934c17dc78669831c1c1"
     }
   ]
 }
