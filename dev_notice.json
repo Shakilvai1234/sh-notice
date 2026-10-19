@@ -10,15 +10,15 @@
       "hash": "489dfaa6f2aea875792b"
     }
   ],
-   "shakild_dev": [
+   "missilev2ray_dev": [
     {
-      "User": "shakild_dev",
-      "app_name": "AliNaj Build",
+      "User": "missilev2ray_dev",
+      "app_name": "Shakil Build",
       "status": "online",
       "password": "shakilddev",
-      "domain": "alinajdev.com",
+      "domain": "missilev2ray.xyz",
       "post_api": "/v1/json/update",
-      "hash": "87c28c7d2d59c9d271e1"
+      "hash": "316e97a879c9223ee998"
     }
   ]
 }
