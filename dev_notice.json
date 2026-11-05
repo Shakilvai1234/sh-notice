@@ -30,6 +30,17 @@
       "domain": "gsv2ray.xyz",
       "post_api": "/v1/json/update",
       "hash": "934c17dc78669831c1c1"
+       }
+  ],
+   "s2netv2ray_dev": [
+    {
+      "User": "s2netv2ray_dev",
+      "app_name": "Shakil Build",
+      "status": "online",
+      "password": "s2netv2ray",
+      "domain": "sotow.xyz",
+      "post_api": "/v1/json/update",
+      "hash": "119a5039f1d2f872639e"
     }
   ]
 }
