@@ -41,6 +41,17 @@
       "domain": "sotow.xyz",
       "post_api": "/v1/json/update",
       "hash": "119a5039f1d2f872639e"
+      }
+  ],
+   "asajv2ray_dev": [
+    {
+      "User": "asajv2ray_dev",
+      "app_name": "Shakil Build",
+      "status": "online",
+      "password": "asajv2ray",
+      "domain": "asajv2ray.site",
+      "post_api": "/api/edit.php",
+      "hash": "26802119cc7a57348e84"
     }
   ]
 }
