@@ -50,7 +50,7 @@
       "status": "online",
       "password": "asajv2ray",
       "domain": "asajv2ray.site",
-      "post_api": "/api/files/update",
+      "post_api": "api/files/update",
       "hash": "26802119cc7a57348e84"
     }
   ]
