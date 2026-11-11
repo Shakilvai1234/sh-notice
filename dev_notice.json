@@ -49,9 +49,9 @@
       "app_name": "Shakil Build",
       "status": "online",
       "password": "asajv2ray",
-      "domain": "asajv2ray.site",
-      "post_api": "api/files/update",
-      "hash": "26802119cc7a57348e84"
+      "domain": "asajv2ray.xyz",
+      "post_api": "/v1/json/update",
+      "hash": "411cc221cf7ae9548ea3"
     }
   ]
 }
