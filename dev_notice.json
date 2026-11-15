@@ -52,6 +52,17 @@
       "domain": "asajv2ray.xyz",
       "post_api": "/v1/json/update",
       "hash": "411cc221cf7ae9548ea3"
+      }
+  ],
+   "shakiltest_dev": [
+    {
+      "User": "shakiltest_dev",
+      "app_name": "Shakil Build",
+      "status": "online",
+      "password": "asajv2ray",
+      "domain": "medocasvipro.com",
+      "post_api": "/v1/json/update",
+      "hash": "7d6e7f382b4d145a9de0"
     }
   ]
 }
