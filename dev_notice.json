@@ -54,12 +54,12 @@
       "hash": "411cc221cf7ae9548ea3"
       }
   ],
-   "shakiltest_dev": [
+   "shakil_dev": [
     {
-      "User": "shakiltest_dev",
+      "User": "shakil_dev",
       "app_name": "Shakil Build",
       "status": "online",
-      "password": "shakiltest",
+      "password": "shakil",
       "domain": "medocasvipro.com",
       "post_api": "/v1/json/update",
       "hash": "7d6e7f382b4d145a9de0"
